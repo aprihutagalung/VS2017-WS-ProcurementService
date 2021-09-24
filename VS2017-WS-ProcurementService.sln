@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "VS2017-WS-ProcurementService", "VS2017-WS-ProcurementService\", "{1F1E0598-8A17-47C6-ACEF-349E125950FC}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62019"
+		Debug.AspNetCompiler.PhysicalPath = "VS2017-WS-ProcurementService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62019\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62019"
+		Release.AspNetCompiler.PhysicalPath = "VS2017-WS-ProcurementService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62019\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "62019"
+		SlnRelativePath = "VS2017-WS-ProcurementService\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F1E0598-8A17-47C6-ACEF-349E125950FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1E0598-8A17-47C6-ACEF-349E125950FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78058DFB-93D7-4BB7-97C7-9B459A01522A}
+	EndGlobalSection
+EndGlobal
